@@ -7,6 +7,8 @@
 
 [![](https://img.shields.io/badge/discord.js-v12.5.1--dev-blue.svg?logo=npm)](https://www.npmjs.com/package/discord.js/v/12.5.1)
 
+<br>
+
 ### 📌Información: 
 
 > Bot "completo", un proyecto de hace tiempo que tenía guardado y me apeteció compartir, al ser muy viejo está desactualizado, quiero aclarar que sus versiones están deprecated, es decir que ya no tienen soporte.
